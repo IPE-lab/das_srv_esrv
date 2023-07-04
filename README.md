@@ -1,6 +1,7 @@
 # **stimulate reservoir volume calculation**
- <img src="img/SRV.png" width="300" />
-
+## Running screenshots show
+- <img src="img/SRV.png" width="400" />
+***
 ## Paper Support
 - Original information: A Calculation Method of Stimulated Reservoir Volume Based on Microseismic Events and Its Application
 - Recruitment Journal: Chinese Journal of Underground Space and Engineering
